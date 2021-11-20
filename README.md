@@ -1,2 +1,1 @@
-#robot-gladiators
 # robot-gladiators
