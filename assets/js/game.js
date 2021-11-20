@@ -180,4 +180,5 @@ var startGame = function() {
 };
 
 // start the game when the page loads
+debugger;
 startGame();
